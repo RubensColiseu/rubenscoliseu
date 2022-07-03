@@ -1,4 +1,4 @@
-## Oi, eu sou João Paulo Uba, estou (quase) graduando em Engenharia de Controle e Automação e costumo desenvolver aplicativos móveis com React-Native!
+## Oi, eu sou João Paulo Uba, estou (quase) graduando em Engenharia de Controle e Automação e costumo desenvolver aplicativos para dispositivos móveis com React-Native!
 <div align="center">
   <a href="https://github.com/rubenscoliseu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubenscoliseu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
